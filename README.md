@@ -10,4 +10,4 @@ train your own model, replace name of model with youe model name.
 https://huggingface.co/spaces/LEVIII007/Visionary_Captions
 
 ## Screenshot
-![Screenshot](images.png)
+![Screenshot](image.png)
